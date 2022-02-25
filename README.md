@@ -19,7 +19,7 @@ Shard Breaker is a 3D FPS where the player explores an ominous frozen ruin. He h
 
 # Responsibilites
 - Projectiles
-- Save/Load system
+- Created simple Load/Save system with Serialization/Deserialization 
 - UI Settings
 
 # YOUTUBE VIDEO WIP
