@@ -1,4 +1,4 @@
-# ShardBreaker (Student Project)
+# ShardBreaker (Student Project @S4G)
 Homepage: https://s4g.itch.io/shard-breaker
 
 # 3D First Person Shooter made in Unity
@@ -6,8 +6,8 @@ Shard Breaker is a 3D FPS where the player explores an ominous frozen ruin. He h
 
 # Gameplay
 - Ability Gain/Swap
-- explore
-- fast & fluent Gameplay
+- Explore
+- Fast & Fluent Gameplay
 
 # Roles
 - Gameplay and UI
@@ -21,6 +21,11 @@ Shard Breaker is a 3D FPS where the player explores an ominous frozen ruin. He h
 - Save/Load system
 - UI Settings
 
+# YOUTUBE VIDEO WIP
+-
+-
+-
+-
 # Documentation
 
 - [Technical Design Document](https://docs.google.com/document/d/1ilK_6XjQIBvrrDATiBpspiQ9-e57QF6tCPropOifcKU/edit)
