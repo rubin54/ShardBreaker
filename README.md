@@ -13,11 +13,6 @@ Art Made By [Aina Theede](https://www.artstation.com/ainmalig)
    get their abilities to use these against them and to overcome obstacles
   </p>
 </p>
-<h1 align="center">Gameplay</h1>
-
-<p align="center">Ability Gain&Swap</p>
-<p align="center">Explore</p>
-<p align="center">Fast&Fluent Gameplay</p>
 
 <h1 align="center">Roles</h1>
 <p align="center">Gameplay and UI Programming</p>
@@ -25,11 +20,18 @@ Art Made By [Aina Theede](https://www.artstation.com/ainmalig)
 <h1 align="center">Engine/Languages</h1>
 <p align="center">Unity, C#</p>
 
+<h1 align="center">Gameplay</h1>
+
+- Ability Gain&Swap
+- Explore
+- Fast&Fluent Gameplay
+
 <h1 align="center">Responsibilities</h1>
-<p align="center">Created a simple Load/Save system with Seralization/Deserialization</p>
-<p align="center">Implemented new Input System for Key Rebinding purposes</p>
-<p align="center">Implemented UI Settings</p>
-<p align="center">Expanding on KI foundation</p>
+
+- Created a simple Load/Save system with Seralization/Deserialization
+- Implemented new Input System for Key Rebinding purposes
+- Implemented UI Settings
+- Expanding on KI foundation
 
 <h1 align="center">Gameplay Video</h1>
 
