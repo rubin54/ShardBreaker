@@ -32,3 +32,5 @@ Video Edit By [Sarafina Hüsgen](https://www.linkedin.com/in/sarafina-huesgen/)
 # Documentation
 
 - [Technical Design Document](https://docs.google.com/document/d/1ilK_6XjQIBvrrDATiBpspiQ9-e57QF6tCPropOifcKU/edit)
+
+![](https://github.com/rubin54/ShardBreaker/blob/main/Assets/Art/Texture/Logo/Game.png)
