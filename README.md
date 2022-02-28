@@ -25,11 +25,9 @@ Shard Breaker is a 3D FPS where the player explores an ominous frozen ruin. He h
 - Implemented UI Settings
 - Expanding on KI foundation
 
-# YOUTUBE VIDEO WIP
--
--
--
--
+# YOUTUBE VIDEO
+
+[![()](https://vimeo.com/591019332?embedded=true&source=video_title&owner=80591853.jpg)](https://vimeo.com/591019332?embedded=true&source=video_title&owner=80591853)
 # Documentation
 
 - [Technical Design Document](https://docs.google.com/document/d/1ilK_6XjQIBvrrDATiBpspiQ9-e57QF6tCPropOifcKU/edit)
