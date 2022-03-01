@@ -1,7 +1,8 @@
+# First Person Shooter(Student Project @S4G)
+
 [![()](https://github.com/rubin54/ShardBreaker/blob/main/Assets/Art/Logo2_Github.png)](https://www.artstation.com/ainmalig)
 Art Made By [Aina Theede](https://www.artstation.com/ainmalig)
 
-# First Person Shooter(Student Project @S4G)
         
   Homepage: https://s4g.itch.io/shard-breaker
 
